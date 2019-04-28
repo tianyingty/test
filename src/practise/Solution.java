@@ -1,4 +1,4 @@
-package test;
+package practise;
 
 /**
  * ATM机允许4或6位PIN码,PIN码不能包含4位数或6位数字。 如果函数传递了有效的PIN字
